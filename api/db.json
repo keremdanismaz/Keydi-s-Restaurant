@@ -1,0 +1,84 @@
+{
+  "Menu": [
+    {
+      "title": "Ekmek arası Kokoreç",
+      "category": "Akşam",
+      "desc": "Enfes adana lezzeti ile kokoreç akşamların sefasıdır.Bizde sadece 20 tl vererek kapınızda!",
+      "img": "https://i4.hurimg.com/i/hurriyet/75/750x422/5b7ba7772269a223a416a033.jpg",
+      "price": "20",
+      "id": "hlVn2EL"
+    },
+    {
+      "title": "Döner Kebap",
+      "category": "Akşam",
+      "desc": "Döner, dünyanın neresine gidilirse gidilsin bulmanın mümkün olduğu ve belki de dünyanın en tanınmış yemeklerinden. Her ne kadar “kebap” dendiğinde ülkemizde yaşayan herkesin aklına birçok farklı kebap çeşidi geliyor olsa da yabancıların zihninde en başta “döner” canlanıyor.",
+      "img": "https://i4.hurimg.com/i/hurriyet/75/770x0/5fac100ad3806c0cdcfb8868",
+      "price": "22.30",
+      "id": "EyGOzk5"
+    },
+    {
+      "title": "Baklava",
+      "category": "Tatlı",
+      "desc": "Türk mutfağı denince ilk akla gelen lezzetlerden bir diğeri ise hiç şüphesiz ki baklava. Şerbetli tatlıların şahı baklava, ülkemizde olduğu gibi yurt dışında da oldukça popüler bir tarif.",
+      "img": "https://i4.hurimg.com/i/hurriyet/75/770x0/5fac1104d3806c0cdcfb8875",
+      "price": "12.30",
+      "id": "h94DgbG"
+    },
+    {
+      "title": "Şiş Kebap",
+      "category": "Akşam",
+      "desc": "Bir Türk yemeği klasiği olan şiş kebabın hem kırmızı etli hem de tavuk etli çeşitleri bulunuyor olsa da tavukla yapılan versiyonu yurt dışında daha yaygın olarak tercih ediliyor.",
+      "img": "https://i4.hurimg.com/i/hurriyet/75/770x0/5fac1109d3806c0cdcfb887d",
+      "price": "20",
+      "id": "DNVGr73"
+    },
+    {
+      "title": "Lahmacun",
+      "category": "Akşam",
+      "desc": "eşhur Türk yemekleri arasında sıralayabileceğimiz lahmacun, yabancı toplumlarda çoğunlukla “Turkish pizza” olarak anılıyor. ",
+      "img": "https://i4.hurimg.com/i/hurriyet/75/770x0/5fac1108d3806c0cdcfb8879",
+      "price": "12.30",
+      "id": "pD9DdOX"
+    },
+    {
+      "title": "İskender Kebap",
+      "category": "Akşam",
+      "desc": "Adını Bursalı bir kasaptan alan İskender Kebap; pidesi, ince dilimlenmiş eti, domates sosu, tereyağı ve yoğurdu ile servis edilen geleneksel tatlarımızdan. Ülkemizi ziyaret eden yabancıların da beğenisini toplayan İskender Kebap, yurt dışında çokça talep gördüğü için pek çok Türk restoranının menüsünde mutlaka yer alıyor.",
+      "img": "https://i4.hurimg.com/i/hurriyet/75/770x0/5fac1108d3806c0cdcfb887b",
+      "price": "33.50",
+      "id": "pr0hXcM"
+    },
+    {
+      "title": "Zeytinyağlı Sarma",
+      "category": "Akşam",
+      "desc": "Binlerce yıllık bir tarif olan zeytinyağlı yaprak sarması, lezzetiyle her tadanın kalbini fethediyor. Yapım aşamasında asma yaprağı kullanılan ve pirinç, baharat, soğan ile hazırlanan iç harcın asma yaprakları arasına sarılması yöntemiyle hazırlanan zeytinyağlı yaprak sarması, ünü dünyaya yayılan Türk yemeklerinden bir diğeri olarak karşımıza çıkıyor.",
+      "img": "https://i4.hurimg.com/i/hurriyet/75/770x0/5fac110ad3806c0cdcfb8881",
+      "price": "22.30",
+      "id": "hZmD0vP"
+    },
+    {
+      "title": "Köfte",
+      "category": "Akşam",
+      "desc": "Türkiye’de hemen her yörenin kendine özgü köfte çeşidi olsa da dünyada genel olarak her biri ”köfte” çatısı altına alınıyor. Diğer kebap çeşitleri gibi yeşillik, pilav ve pide ile servise sunulan köfteleri yabancı ülkelerin restoranlarında “Turkish meatball” adı ile görebilmek de mümkün.",
+      "img": "https://i4.hurimg.com/i/hurriyet/75/770x0/5fac110ad3806c0cdcfb887f",
+      "price": "12.30",
+      "id": "OzFBcaZ"
+    },
+    {
+      "title": "Künefe",
+      "category": "Tatlı",
+      "desc": "Güneydoğu Anadolu mutfağının en özel tatlarından künefe, ünü ülke sınırlarını aşan lezzetlerimizden biri olarak karşımıza çıkıyor. Enfes tel kadayıfı, özel peyniri, Antep fıstıklı süslemesi ve kıvamında şerbeti ile damakları şenlendiren künefe, genel olarak leziz Türk yemeklerini tattıktan sonra mükemmel bir final yapmak için tercih edilir.",
+      "img": "https://i4.hurimg.com/i/hurriyet/75/770x0/5fac1107d3806c0cdcfb8877",
+      "price": "20.90",
+      "id": "eHp0iwA"
+    },
+    {
+      "title": "Mantı",
+      "category": "Akşam",
+      "desc": "Baharatlı ve etli iç harcı ile doldurulan küçük hamur parçalarının haşlanması, daha sonra üzerine yoğurt ve özel sos ilave edilmesi ile servise hazır hale getirilen mantı da bir diğer meşhur tarifimiz olarak değerlendirilebilir. İtalyanların “ravioli” tarifi ile benzerlik gösterse de özgün sunumuyla farklılaşan mantı, dünyanın birçok yerinde talep gören lezzetlerden.",
+      "img": "https://i4.hurimg.com/i/hurriyet/75/770x0/5fac110cd3806c0cdcfb8883",
+      "price": "18.90",
+      "id": "BpSTasT"
+    }
+  ]
+}
